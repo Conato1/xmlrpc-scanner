@@ -8,7 +8,12 @@
 ---
 
 ## 🔍 Overview
-XML-RPC Scanner is a fast and efficient tool for detecting the accessibility of xmlrpc.php on websites. It helps identify potential security risks, including open, restricted, or misconfigured XML-RPC endpoints. Featuring multi-threading, customizable delays, and structured output, it ensures accurate and comprehensive scanning for security analysis. 🚀
+XML-RPC Scanner is a fast and efficient tool for **detecting the accessibility of xmlrpc.php on websites.** It helps identify potential security risks, including open, restricted, or misconfigured XML-RPC endpoints. Featuring multi-threading, customizable delays, and structured output, it ensures accurate and comprehensive scanning for security analysis. 🚀
+
+> Created by **Muhammad Thoriq**  
+> Version: `v1.0.2a`
+
+---
 
 ## ⚠️ Disclaimer
 This tool is developed solely for educational and security research purposes. Unauthorized scanning of websites without proper consent may violate legal and ethical guidelines. The author assumes no responsibility for any misuse or illegal activities conducted using this tool. Use it responsibly and ethically. 🚀
